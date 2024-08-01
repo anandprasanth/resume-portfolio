@@ -1,0 +1,44 @@
+h1 {
+    color:red;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+#main {
+    color:green;
+}
+
+p {
+    color:peru;
+}
+
+.note {
+    font-size: 20px;
+}
+#red {
+    color:red;
+}
+#blue {
+    color:blue;
+}
+#green {
+    color:green;
+}
+#yellow {
+    color:yellowgreen;
+}
+#violet {
+    color:violet;
+}
+#orange {
+    color:orangered;
+}
+#coral { 
+    color:coral;
+}
+#khaki {
+    color:darkslategray;
+}
