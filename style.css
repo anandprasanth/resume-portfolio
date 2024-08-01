@@ -1,5 +1,6 @@
 h1 {
     color:red;
+    background-color:rgb(90, 73, 189);
 }
 
 img {
@@ -20,25 +21,34 @@ p {
 }
 #red {
     color:red;
+    background-color:darkgrey
 }
 #blue {
     color:blue;
+    background-color:cadetblue
 }
 #green {
     color:green;
+    background-color: darkgrey;
 }
 #yellow {
-    color:yellowgreen;
+    color:rgb(104, 139, 8);
+    background-color: burlywood;
 }
 #violet {
     color:violet;
+    background-color:thistle
 }
 #orange {
     color:orangered;
+    background-color:burlywood
 }
 #coral { 
     color:coral;
 }
 #khaki {
     color:darkslategray;
+}
+html {
+    background-color:peachpuff;
 }
